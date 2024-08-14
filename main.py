@@ -11,3 +11,6 @@ def funcion3(var2):
 
 def funcion4(var3):
     print(var3)
+	
+def funcionTatiana(varT)
+	print(varT)
