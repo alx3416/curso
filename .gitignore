@@ -4,3 +4,5 @@ cmake-build-debug/
 cmake-build-release/
 out/
 .idea/
+venv/
+python/__pycache__/
