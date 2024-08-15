@@ -1,5 +1,2 @@
 *.jpg
 output/
-.idea/
-venv/
-python/__pycache__/
