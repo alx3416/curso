@@ -1,2 +1,6 @@
 *.jpg
 output/
+cmake-build-debug/
+cmake-build-release/
+out/
+.idea/
